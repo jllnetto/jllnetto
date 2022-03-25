@@ -2,7 +2,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in .NET CORE and Angular
-- 🌱 I’m currently learning Angular and Kamban
+- 🌱 I’m currently learning Angular and Kaban
 - 📫 How to reach me: jllnetto@gmail.com || [LinkedIn](www.linkedin.com/in/jllnetto/)
 - ⚡ Fun fact: I'm a D&D dungeon master and I love RPG in general.
 <div align="center">
