@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
-  ![snake gif](https://github.com/jllnetto/jllnetto/blob/output/github-contribution-grid-snake.gif)
+  
+![snake gif](https://github.com/jllnetto/jllnetto/blob/output/github-contribution-grid-snake.gif)
