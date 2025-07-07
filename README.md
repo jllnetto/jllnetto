@@ -2,7 +2,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working in .NET CORE and Angular
-- 🌱 I’m currently learning Angular and Kaban
+- 🌱 I’m currently learning Java and Spring
 - 📫 How to reach me: jllnetto@gmail.com || [LinkedIn](www.linkedin.com/in/jllnetto/)
 - ⚡ Fun fact: I'm a D&D dungeon master and I love RPG in general.
 <div align="center">
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
   
-![snake gif](https://github.com/jllnetto/jllnetto/blob/output/github-contribution-grid-snake.gif)
+
